@@ -1,0 +1,11 @@
+{
+    "rutas": [
+      { "src": "/", "dest": "Welcome", "status": 200 },
+      { "src": "/error", "dest": "Error", "status": 200 },
+      { "src": "/home", "dest": "Home", "status": 200 },
+      { "src": "/card", "dest": "Card", "status": 200 },
+      { "src": "/individual", "dest": "Individual", "status": 200 },
+      { "src": "/groupal", "dest": "Groupal", "status": 200 },
+      { "src": "/apiregister", "dest": "apiRegister", "status": 200 }
+    ]
+  }
